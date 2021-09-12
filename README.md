@@ -1,4 +1,6 @@
 # ASCII
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 Command line tool for printing entire ASCII Table or a selection of the table.
 
 ## Example
