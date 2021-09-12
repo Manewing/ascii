@@ -6,7 +6,7 @@ Command line tool for printing entire ASCII Table or a selection of the table.
 ## Example
 
 ```
-$ ascii 50 80
+$ ascii 50 60
   | CHAR | HEX  | DEC |  BINARY  |  | CHAR | HEX  | DEC |  BINARY  |
   +------+------+-----+----------+  +------+------+-----+----------+
   | '2'  |  32  | 050 | 00110010 |  | '8'  |  38  | 056 | 00111000 |
